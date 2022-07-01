@@ -1,6 +1,6 @@
 update_notification: true
 time_limits:
-  default: 3600
+  default: 10800
   vip: 7200
   op: 0
 world_whitelist_system:
